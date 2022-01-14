@@ -23,6 +23,13 @@ Version 1.0 Features :
 ~ clear all button
 
 
+KNOWN ISSUES:
+
+There are a couple executables ive had trouble getting to run but I think that has to do with adding an acception for different file extentions.
+look forward to that being resolves as well as an implemented feature to clear out and modify each button at once,
+rather than clearing out the whole table to make program changes. All suggestions are welcomed.
+
+
 https://user-images.githubusercontent.com/97707969/149505337-3d3160d6-c9c5-4df4-beed-6b31b826659a.mp4
 
 
