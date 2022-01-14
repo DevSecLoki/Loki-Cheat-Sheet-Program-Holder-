@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c99e50f-5bc7-4dd0-bba8-376e2b54614b": {
+      "ProjectGuid": "0c99e50f-5bc7-4dd0-bba8-376e2b54614b",
+      "DisplayName": "Loki_Cheat_Sheet",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

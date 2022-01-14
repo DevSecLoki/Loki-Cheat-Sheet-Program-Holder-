@@ -1,0 +1,12 @@
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.exe.config
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.exe
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.pdb
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.SuggestedBindingRedirects.cache
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.ResolveComReference.cache
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\Loki_Cheat_Sheet.Form1.resources
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.Properties.Resources.resources
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.GenerateResource.cache
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.CoreCompileInputs.cache
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.exe
+D:\Dev\cpp projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.pdb

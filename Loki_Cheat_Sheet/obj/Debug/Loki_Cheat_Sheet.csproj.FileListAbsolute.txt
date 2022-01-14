@@ -1,0 +1,13 @@
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\bin\Debug\Loki_Cheat_Sheet.exe.config
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\bin\Debug\Loki_Cheat_Sheet.exe
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\bin\Debug\Loki_Cheat_Sheet.pdb
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.csproj.AssemblyReference.cache
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.csproj.SuggestedBindingRedirects.cache
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.csproj.ResolveComReference.cache
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.Form1.resources
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.Properties.Resources.resources
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.csproj.GenerateResource.cache
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.csproj.CoreCompileInputs.cache
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.exe
+C:\Users\DevSe\Desktop\Loki's Cheet Sheet\Loki_Cheat_Sheet\obj\Debug\Loki_Cheat_Sheet.pdb
