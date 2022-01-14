@@ -1,4 +1,4 @@
-# Loki-s-Cheat-Sheet-Program-Holder-
+# Loki-Cheat-Sheet-Program-Holder-
 This is just a simple crude program I made to help workflow (specifically .apk modding and reverse engineering) I'm a fairly new programmer so everything might not be implemented correctly but it works to serve its purpose, I chose to leave this open source so you can change the embedded button/exe programs to your liking or whatever. if you remake this just give credit yea?. I will probably build on this while trying to better my craft so if anyone has any ideas to make this better or better ways I could code certain things, I take constructive criticism rather well so just let me know. hope you all enjoy my first git XD
 
 
